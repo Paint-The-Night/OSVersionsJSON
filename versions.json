@@ -1,12 +1,8 @@
 [
   {
     "Name" : "Windows",
+    "Developer" : "Microsoft"
     "Version" : "Windows 11 23H2",
     "ReleaseDate" : "2023.10.31"
   },
-  {
-    "Name" : "macOS",
-    "Version" : "macOS 14.1 (Sonoma)",
-    "ReleaseDate" : "2023.10.25"
-  }
 ]
